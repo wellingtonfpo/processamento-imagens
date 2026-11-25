@@ -1,0 +1,2 @@
+# Empacotada junto com a função (o boto3 já vem no runtime do Lambda)
+Pillow==13.0.0
